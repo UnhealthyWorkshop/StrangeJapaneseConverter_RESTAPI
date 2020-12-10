@@ -1,4 +1,7 @@
 # StrangeJapaneseConverter_RESTAPI
+
+[![Actions Status: CI](https://github.com/UnhealthyWorkshop/StrangeJapaneseConverter_RESTAPI/workflows/CI/badge.svg)](https://github.com/UnhealthyWorkshop/StrangeJapaneseConverter_RESTAPI/actions?query=workflow%3A"CI")
+
 贵樣！これは怪レい日木语を生成ずゑヅ卫ネレーター(ゐRESTful API実装)だ！
 
 ## ごれはなに
